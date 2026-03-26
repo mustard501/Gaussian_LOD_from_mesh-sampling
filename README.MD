@@ -46,7 +46,7 @@ and run the commands:
 python .\src\sample_with_texture.py
 python .\src\gs_octree.py
 ```
-Remember to modify names of files/folders in ``gs_octree.py,sample_with_texture.py,point_sample.py`` according to your needs.
+Remember to modify paths of files/folders in ``gs_octree.py,sample_with_texture.py,point_sample.py`` according to your needs.
 
 ## Example
 <img src="./figs/0.jpg" width="200" height="280" alt="替代文字" align="center">
