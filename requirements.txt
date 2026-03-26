@@ -1,0 +1,9 @@
+trimesh 
+open3d 
+numpy 
+plyfile
+pyvista
+scipy
+torch
+torchvision
+torchaudio

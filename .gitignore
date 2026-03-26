@@ -1,0 +1,64 @@
+# --- 资源目录 (Assets) ---
+
+assets/*
+!assets/.gitkeep
+
+# --- Python 基础 ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- 虚拟环境 (Virtual Environments) ---
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- 环境变量与密钥 ---
+.env
+.venv
+*.env
+*.secret
+
+# --- IDE / 编辑器 ---
+# PyCharm
+.idea/
+# VS Code
+.vscode/
+*.swp
+*.swo
+
+# --- 单元测试 / 覆盖率 ---
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# --- 日志文件 ---
+*.log
