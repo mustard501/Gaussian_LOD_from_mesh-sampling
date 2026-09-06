@@ -6,7 +6,7 @@ controlled by density of sampling,which is based the structure of octree.The too
 
 ## Install
 ```
-git clone https://github.com/mustard501/PointSpill_GS_LOD
+git clone https://github.com/mustard501/PointSpill
 cd PointSpill_GS_LOD
 
 conda create -n gs_lod python=3.10
