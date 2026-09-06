@@ -1,4 +1,4 @@
-# PointSpill_GS_LOD
+# PointSpill
 
 This project is a lightweight tool to generate 3DGS LOD **(level of detail)** models from mesh model.
 All you need to input is a .obj mesh,and different levels 3DGS models will be output.The level of detail is
